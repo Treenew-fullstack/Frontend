@@ -1,0 +1,68 @@
+.header table{
+    width: 100%;
+    float: right;
+    height: 100%;
+    text-align: center;
+
+}
+
+.header tr{
+    height: 70px;
+    background: red;
+}
+
+.header td{
+    width: 100 %;
+    height: 70 px;
+}
+
+.navigation{
+    float: right;
+    height: 100%;
+}
+
+.navigation a{
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 0px 20px;
+    background-color: #FF0000;
+}
+
+.navigation a li{
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 20px;
+    color: black;
+}
+
+.navigation a:hover{
+    background-color: #8B0000;
+    color: #101010;
+}
+
+.body table{
+    height: 100 %;
+    width= 100 %;
+}
+
+.body tr{
+    height: 100 %;
+    background: white;
+}
+
+.foto {
+    float: left;
+    width= 50 %;
+    height= 50 %;
+    margin: 4px 10px 2px 0px;
+
+}
+
+.foto1 {
+    float: bottom;
+    width= 100 %;
+    height= 100 %;
+    margin: 4px 10px 2px 0px;
+
+}
